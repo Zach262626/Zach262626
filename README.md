@@ -1,8 +1,8 @@
 ## Zachary Gallant
 
-Software engineering graduate (Carleton University, 2026) based in Ottawa. I build
-backend-heavy web applications — mostly Laravel and PHP, with Java and C/C++ from my
-systems and concurrency coursework.
+Software engineering graduate (Carleton University, 2026), based in Campbellton, New
+Brunswick and open to remote work. I build backend-heavy web applications — mostly
+Laravel and PHP, with Java and C/C++ from my systems and concurrency coursework.
 
 **Backend** &nbsp;Laravel · PHP · Spring Boot · Java
 **Frontend** &nbsp;Vue · Blade · Thymeleaf · TypeScript
@@ -21,7 +21,7 @@ including in-flight request de-duplication that recovers cleanly when the API fa
 GUI work and its JUnit coverage.
 
 #### GP Transmission — production Laravel site · live at [gptransmission.ca](https://gptransmission.ca)
-Full site for an Ottawa transmission shop: customer service-request flow with Mailgun
+Full site for a Campbellton, NB transmission shop: customer service-request flow with Mailgun
 delivery, Dockerised development environment, GitHub Actions CI, and a PHPUnit suite.
 128 commits over two years — my longest-running project. *Private repository; happy to
 walk through the code on request.*
@@ -56,4 +56,4 @@ and an [OS scheduler and memory simulator in C++](https://github.com/Zach262626/
 
 ---
 
-📍 Ottawa, Ontario
+📍 Campbellton, New Brunswick &nbsp;·&nbsp; 🌐 Open to remote
