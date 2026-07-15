@@ -22,7 +22,6 @@ GUI work and its JUnit coverage.
 #### GP Transmission — production Laravel site · live at [gptransmission.ca](https://gptransmission.ca)
 Full site for a Campbellton, NB transmission shop: customer service-request flow with Mailgun
 delivery, Dockerised development environment, GitHub Actions CI, and a PHPUnit suite.
-128 commits over two years — my longest-running project.
 
 #### [ticket-system](https://github.com/Zach262626/ticket-system) · Laravel 12
 Multi-tenant support desk. Per-tenant database isolation via `stancl/tenancy`, real-time
