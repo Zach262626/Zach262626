@@ -14,7 +14,7 @@ systems coursework.
 ### Selected work
 
 #### [gp-transmission](https://github.com/Zach262626/gp-transmission) · Laravel
-Production website for an Ottawa transmission shop, live at
+Production website for an Campbellton transmission shop, live at
 [gptransmission.ca](https://gptransmission.ca). Customer service-request flow with
 Mailgun delivery, Dockerised development environment, GitHub Actions CI, and a PHPUnit
 suite. 128 commits over two years — my longest-running project.
